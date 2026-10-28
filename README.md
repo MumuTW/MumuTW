@@ -1,15 +1,22 @@
-# Chiang Sheng Lin (Johnson)
+# Johnson Lin
 
-Founder of **Augvant (奧望)** — building an operating system for process-heavy businesses, starting with accounting firms in Taiwan.
+Founder at **Augvant (奧望)** · Physician-turned-builder.
 
-I approach businesses the way I learned to approach complex clinical systems: observe before intervening, diagnose before prescribing, stabilize what's fragile, then redesign the system to become more reliable and capable. Previously an anesthesiology resident at Taipei Veterans General Hospital.
+Applying clinical systems thinking to business architecture — diagnosing bottlenecks, stabilizing fragile workflows, and engineering resilient operational systems.
 
-## Building now
-- **Augvant** (private) — multi-tenant work management system combining workflow execution, operational knowledge, billing & collections, and targeted automation. Augvant runs on it.
+### What I'm Building
+- **[Augvant](https://augvant.com)** — Multi-tenant workflow & operational OS for process-heavy professional services.
+- Exploring typed agentic systems, deterministic decision-making, and pragmatic LLM infrastructure.
 
-## Background
-- Anesthesiology residency, Taipei Veterans General Hospital (2022–2025)
-- M.D., National Defense Medical Center (2013–2019)
-- Python instructor, NDMC · CASI Level 2 snowboard instructor · Japanese (professional working proficiency)
+### Open Source Contributions
+- **[OmniRoute](https://github.com/cheaper-inference/OmniRoute)** — Multi-provider AI gateway (routing policies & failure-fact sharing)
+- **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** — Google's AI agent CLI (core runtime, event-loop perf & process lifecycle)
+- **[cloudflare/vinext](https://github.com/cloudflare/vinext)** — Next.js API surface on Vite (prefetch lifecycle, font loaders & init fixes)
 
-📫 clothl47364@gmail.com · [LinkedIn](https://www.linkedin.com/in/chiang-sheng-lin/)
+### Tech Stack & Interests
+- **Languages & Frameworks**: TypeScript, Node.js, Next.js, React
+- **Data & Infra**: PostgreSQL, Drizzle ORM, Docker
+- **Focus**: Agent workflows, workflow automation, operational reliability
+
+---
+📫 [LinkedIn](https://www.linkedin.com/in/chiang-sheng-lin/) · [Website](https://augvant.com)
